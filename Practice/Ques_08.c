@@ -19,8 +19,8 @@ int main(){
 
     printf("Your marks are %d, %d and %d and\n", sub1_marks, sub2_marks, sub3_marks);
 
-    // marks_percentage = (sub1_marks + sub2_marks + sub3_marks)/300.0*100;
-    // printf("Your percentage is %.2f%%", marks_percentage);
+    // marks_percentage = (sub1_marks + sub2_marks + sub3_marks)/3;
+    // printf("Your percentage is %f %%", marks_percentage);
 
     // if(marks_percentage >= 33){
     //     printf(" and you pass");
